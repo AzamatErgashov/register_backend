@@ -4,3 +4,7 @@
 ## Screenshot
 ![image alt](https://github.com/AzamatErgashov/register_backend/blob/0deac1a6041aecaf19adf6af0f00f0689df81e7b/Screenshot%202026-09-30%20at%2014.40.10.png)
 
+
+
+
+![image alt](https://github.com/AzamatErgashov/register_backend/blob/237845c7b01385f730a814a329f66dd3215a686c/Screenshot%202026-09-29%20at%2015.22.43.png)
