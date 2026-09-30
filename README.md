@@ -8,3 +8,8 @@
 
 
 ![image alt](https://github.com/AzamatErgashov/register_backend/blob/237845c7b01385f730a814a329f66dd3215a686c/Screenshot%202026-09-29%20at%2015.22.43.png)
+
+
+
+
+![image alt](https://github.com/AzamatErgashov/register_backend/blob/20a5e26e423f97a5555e6765afbb11b1406ab52e/Screenshot%202026-09-29%20at%2015.22.16.png)
